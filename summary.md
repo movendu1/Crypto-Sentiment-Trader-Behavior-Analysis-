@@ -87,4 +87,3 @@ Top predictive features: sentiment index value, rolling 7-day PnL, daily PnL vol
 
 ---
 
-*Analysis by: Senior Quant | Data: Hyperliquid + Alternative.me | Period: May 2023 – May 2025*
